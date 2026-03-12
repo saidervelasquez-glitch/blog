@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<title>Blog: La Célula</title>
+<style>
+body{
+font-family: Arial;
+background:#f4f6f8;
+margin:40px;
+line-height:1.6;
+}
+
+header{
+text-align:center;
+}
+
+article{
+background:white;
+padding:20px;
+margin:20px auto;
+max-width:700px;
+border-radius:10px;
+box-shadow:0 0 10px rgba(0,0,0,0.1);
+}
+
+h1{
+color:#2c7a7b;
+}
+
+h2{
+color:#2b6cb0;
+}
+</style>
+</head>
+
+<body>
+
+<header>
+<h1>Blog de Biología</h1>
+<p>Aprendiendo sobre la célula</p>
+</header>
+
+<article>
+<h2>¿Qué es la célula?</h2>
+<p>
+La célula es la unidad básica de la vida. Todos los seres vivos están formados por células.
+Pueden ser organismos unicelulares o multicelulares.
+</p>
+</article>
+
+<article>
+<h2>Partes de la célula</h2>
+<p>
+Las partes principales de una célula son:
+</p>
+<ul>
+<li>Membrana celular</li>
+<li>Citoplasma</li>
+<li>Núcleo</li>
+<li>Organelos celulares</li>
+</ul>
+</article>
+
+<article>
+<h2>Tipos de células</h2>
+<p>
+Existen dos tipos principales:
+</p>
+<ul>
+<li>Células procariotas</li>
+<li>Células eucariotas</li>
+</ul>
+</article>
+
+</body>
+</html>
